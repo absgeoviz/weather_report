@@ -1524,7 +1524,7 @@ var options = {
         "enabled": false
     },
     "colors": [
-        "#008FFB"
+        "#d73027", "#fc8d59", "#fee08b", "#d9ef8b", "#91cf60", "#1a9850", "#4575b4", "#313695"
     ],
     "title": {
         "text": "Heatmap Chart"
